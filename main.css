@@ -1,6 +1,6 @@
 header{
     height: 500px;
-    background-image: url("../20240814-git/images/winter-camping-with-grill.jpg");
+    background-image: url("/images/header.jpg");
     background-size: cover;
-    background: lightblue;
+    background-position: center center;
 }
